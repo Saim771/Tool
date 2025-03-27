@@ -1,0 +1,9 @@
+.tool-link {/img-compresion.html}
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.tool-link:hover {
+    text-decoration: none;
+}
